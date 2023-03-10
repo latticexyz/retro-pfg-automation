@@ -12,9 +12,11 @@ __Summary:__ Instead of duplicating the OP provided Sheet, you duplicate a [modi
 Then, when visiting [the form](https://app.deform.cc/form/85e65189-6679-4a13-908e-c42ea3cf1498/), you can import the JSON into the form into a Bookmarklet.
 
 ## Step 1: Make a Copy of the modified Google Sheet
-__Regardless of how many exports / imports you do, this step is to be done only once__ 
+__Regardless of how many exports / imports you do, this step is to be done only once__
 
-Important: Use File -> Make a Copy instead of duplicating the the sheet; otherwise the AppScript won't be carried over.
+Open the [modified Google Sheet](https://docs.google.com/spreadsheets/d/1fSRLfEw47hc7l33gZVs3sLa7rvXQom03wfjGz6FpUpo/edit#gid=0); and make a copy of it.
+
+__Important: Use File -> Make a Copy instead of duplicating the the sheet; otherwise the AppScript won't be carried over.__
 
 <img width="383" alt="CleanShot 2023-02-16 at 17 44 19@2x" src="https://user-images.githubusercontent.com/21203499/224313286-880b7868-7558-4b8e-a5f2-0938c7ff37ae.png">
 
