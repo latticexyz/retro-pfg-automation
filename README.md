@@ -79,6 +79,3 @@ Go to the [RetroPGF Round 2 form](https://app.deform.cc/form/85e65189-6679-4a13-
 Paste your JSON Ballot created in Step 2 from your clipboard (or first copy it from the text file you saved it to) into the text box and click "Ok".
 
 The form should now reflect your ballot!
-
-5. Hit OK and watch the form fill.
-
