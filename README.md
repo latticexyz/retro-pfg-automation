@@ -56,7 +56,7 @@ javascript: (function () {
       return projectAllocation.projectIndex === projectIndex;
     });
 
-    input.value = project ? Math.round(project.allocation * 100) : 0;
+    input.value = project ? project.allocation * 100 : 0;
   }
 })();
 ```
